@@ -237,7 +237,7 @@ p.note { display: none; }
 
 <!-- フッタ -->
 <footer>
-<p>Copyright 2025/03/11 alis @Bangkok</p>
+<p>Copyright 2025/03/11 alis @Tochigi, Japan</p>
 </footer>
 
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->
