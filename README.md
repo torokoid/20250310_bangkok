@@ -133,9 +133,9 @@ p.note { display: none; }
 <h2><span class="yellow">バンコク5日目の朝4:20、まだ暗い早朝から小鳥たちの囀り<br>画像クリックで動画再生します↓</span></h2>
 <a href="https://youtu.be/CKgWshcNPwo" target="_blank"><img src="20250310_001.png" alt="サンプル画像" width="900" /></a>
     
+<h2><span class="yellow">続きは追記予定</span></h2>
 
-
-
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
    
 <br><br>
 <h2><span class="yellow">今日のBGMは Soft & Relaxing French Love Songs</span></h2>
