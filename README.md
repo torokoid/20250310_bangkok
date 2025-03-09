@@ -143,7 +143,7 @@ p.note { display: none; }
 
 
 <br><br>
-<h2><span class="yellow">もう一つ<br>都会の夜に溶ける🎧 TOKYO発、感情を揺さぶる極上プレイリスト</span></h2>
+<h2><span class="yellow">もう一つ<br>都会の夜に溶ける🎧 TOKYO発、感情を揺さぶる極上プレイリスト 再掲です</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Pn14XUFNZrM?si=lpDajtXHv9EkCtr0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
 
