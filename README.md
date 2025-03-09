@@ -138,8 +138,8 @@ p.note { display: none; }
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
    
 <br><br>
-<h2><span class="yellow">今日のBGMは Soft & Relaxing French Love Songs</span></h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NPZ_fA1ysXY?si=caOaJxbioZ7C2wN9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+<h2><span class="yellow">今日のBGMは 心地よい響き💕感動的なポップバラード集</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PzSbB41o2go?si=kSCVrz-Efdv8c5vU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
 
 <br><br>
