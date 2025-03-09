@@ -131,7 +131,7 @@ p.note { display: none; }
 
 
 <h2><span class="yellow">バンコク5日目の朝、まだ暗い早朝から小鳥たちの囀り<br>画像クリックで動画再生します↓</span></h2>
-<a href="20250310_001.MOV" target="_blank"><img src="20250310_001.png" alt="サンプル画像" width="900" /></a>
+<a href="https://youtu.be/CKgWshcNPwo" target="_blank"><img src="20250310_001.png" alt="サンプル画像" width="900" /></a>
     
 
 
