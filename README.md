@@ -73,7 +73,7 @@ left:0;
 z-index:-1;
 width:100%;
 height:100vh;
-background:url(https://torokoid.github.io/20250309_bangkok/20250309_019.JPG) center/cover no-repeat;
+background:url(https://torokoid.github.io/20250310_bangkok/20250310_026.JPG) center/cover no-repeat;
 -webkit-background-size:cover;/*Android4*/
 }
 
@@ -179,6 +179,9 @@ p.note { display: none; }
 <a href="20250310_023.JPG" target="_blank"><img src="20250310_023.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250310_024.JPG" target="_blank"><img src="20250310_024.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250310_025.JPG" target="_blank"><img src="20250310_025.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">10日バンコクの夕焼け</span></h2>
+<a href="20250310_026.JPG" target="_blank"><img src="20250310_026.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow"><marquee behavior="left">続きは11日帰国後に追記予定</marquee></span></h2>
 
