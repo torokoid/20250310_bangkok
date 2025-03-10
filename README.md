@@ -180,7 +180,7 @@ p.note { display: none; }
 <a href="20250310_024.JPG" target="_blank"><img src="20250310_024.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250310_025.JPG" target="_blank"><img src="20250310_025.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">10日バンコクの夕焼け</span></h2>
+<h2><span class="yellow">10日バンコクの夕焼け、電線の間に旅客機が写りました</span></h2>
 <a href="20250310_026.JPG" target="_blank"><img src="20250310_026.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow"><marquee behavior="left">続きは11日帰国後に追記予定</marquee></span></h2>
