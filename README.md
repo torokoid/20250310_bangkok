@@ -132,7 +132,12 @@ p.note { display: none; }
 
 <h2><span class="yellow">バンコク5日目の朝4:20、まだ暗い早朝から小鳥たちの囀り<br>画像クリックで動画再生します↓</span></h2>
 <a href="https://youtu.be/CKgWshcNPwo" target="_blank"><img src="20250310_001.png" alt="サンプル画像" width="900" /></a>
-    
+
+<h2><span class="yellow">10日の朝7:31、川面に朝日が反射しました</span></h2>
+<a href="20250310_001.JPG" target="_blank"><img src="20250310_001.JPG" alt="サンプル画像" width="900" /></a>
+
+
+
 <h2><span class="yellow"><marquee behavior="left">続きは11日帰国後に追記予定</marquee></span></h2>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
