@@ -136,7 +136,49 @@ p.note { display: none; }
 <h2><span class="yellow">10日の朝7:31、川面に朝日が反射しました</span></h2>
 <a href="20250310_001.JPG" target="_blank"><img src="20250310_001.JPG" alt="サンプル画像" width="900" /></a>
 
+<h2><span class="yellow">ガソリンスタンドでほとんどの用事が済んでしまう、この景色も見納め</span></h2>
+<a href="20250310_002.JPG" target="_blank"><img src="20250310_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250310_003.JPG" target="_blank"><img src="20250310_003.JPG" alt="サンプル画像" width="900" /></a>
 
+<h2><span class="yellow">市内ショッピングモール「シーコンスクエア」に出かけました</span></h2>
+<a href="20250310_004.JPG" target="_blank"><img src="20250310_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250310_005.JPG" target="_blank"><img src="20250310_005.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">ドンキでお昼にします</span></h2>
+<a href="20250310_006.JPG" target="_blank"><img src="20250310_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250310_007.JPG" target="_blank"><img src="20250310_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250310_008.JPG" target="_blank"><img src="20250310_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250310_009.JPG" target="_blank"><img src="20250310_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250310_010.JPG" target="_blank"><img src="20250310_010.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250310_011.JPG" target="_blank"><img src="20250310_011.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250310_012.JPG" target="_blank"><img src="20250310_012.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">「Lotus」はチェンライでもバンコクでも最もお世話になったスーパー</span></h2>
+<a href="20250310_013.JPG" target="_blank"><img src="20250310_013.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250310_014.JPG" target="_blank"><img src="20250310_014.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250310_015.JPG" target="_blank"><img src="20250310_015.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">どこに行っても必ず見かける宝くじ</span></h2>
+<a href="20250310_016.JPG" target="_blank"><img src="20250310_016.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">イベントコーナーは子供で溢れかえってました</span></h2>
+<a href="20250310_017.JPG" target="_blank"><img src="20250310_017.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250310_018.JPG" target="_blank"><img src="20250310_018.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">自然栽培のお店</span></h2>
+<a href="20250310_019.JPG" target="_blank"><img src="20250310_019.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">ショッピングモールの一番はしがスマホ操作場所になってました</span></h2>
+<a href="20250310_020.JPG" target="_blank"><img src="20250310_020.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">いつもの仏壇もしっかり撮ります</span></h2>
+<a href="20250310_021.JPG" target="_blank"><img src="20250310_021.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250310_022.JPG" target="_blank"><img src="20250310_022.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">日本ではあまり見ないタイプの荷物搬送バイク</span></h2>
+<a href="20250310_023.JPG" target="_blank"><img src="20250310_023.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250310_024.JPG" target="_blank"><img src="20250310_024.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250310_025.JPG" target="_blank"><img src="20250310_025.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow"><marquee behavior="left">続きは11日帰国後に追記予定</marquee></span></h2>
 
