@@ -252,13 +252,13 @@ p.note { display: none; }
 <a href="20250310_057.JPG" target="_blank"><img src="20250310_057.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250310_058.JPG" target="_blank"><img src="20250310_058.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">飛行疲れでうとうとしてたら、あっという間に鬼怒川を渡りました</span></h2>
+<h2><span class="yellow">飛行機疲れでうとうとしてたら、あっという間に鬼怒川を渡りました</span></h2>
 <a href="20250310_059.JPG" target="_blank"><img src="20250310_059.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">宇都宮の柳田車庫に無事到着、11日 12:06、おせわになりました</span></h2>
 <a href="20250310_060.JPG" target="_blank"><img src="20250310_060.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow"><marquee behavior="left">4ヶ月に渡るタイ旅行が終了しました。<br>旅の記録としてスタートした写真集の作成でしたが、後半はほぼ日記みたいになりました。<br>おかげさまで毎日たくさんの皆様に見ていただき、作った甲斐がありました。<br>一旦これにてこのシリーズは終了とさせていただきます。</marquee></span></h2>
+<h2><span class="yellow">4ヶ月に渡るタイ旅行が終了しました。<br>旅の記録としてスタートした写真集の作成でしたが、後半はほぼ日記みたいになりました。<br>おかげさまで毎日たくさんの皆様に見ていただき、作った甲斐がありました。<br>一旦これにてこのシリーズは終了とさせていただきます。</span></h2>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
    
