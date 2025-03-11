@@ -192,7 +192,7 @@ p.note { display: none; }
 <h2><span class="yellow">深夜便で移動するお客さんは結構いました</span></h2>
 <a href="20250310_030.JPG" target="_blank"><img src="20250310_030.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">搭乗ゲートを探します</span></h2>
+<h2><span class="yellow">搭乗手続き窓口を探します</span></h2>
 <a href="20250310_031.JPG" target="_blank"><img src="20250310_031.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">手続フロアのメインエリアにも仏像様が祀られていました</span></h2>
