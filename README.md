@@ -184,43 +184,81 @@ p.note { display: none; }
 <a href="20250310_026.JPG" target="_blank"><img src="20250310_026.JPG" alt="サンプル画像" width="900" /></a>
 
 
-
+<h2><span class="yellow">夜8時、タクシーでスワンナプーム国際空港に向かいます</span></h2>
 <a href="20250310_027.JPG" target="_blank"><img src="20250310_027.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250310_028.JPG" target="_blank"><img src="20250310_028.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250310_029.JPG" target="_blank"><img src="20250310_029.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">深夜便で移動するお客さんは結構いました</span></h2>
 <a href="20250310_030.JPG" target="_blank"><img src="20250310_030.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">搭乗ゲートを探します</span></h2>
 <a href="20250310_031.JPG" target="_blank"><img src="20250310_031.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">手続フロアのメインエリアにも仏像様が祀られていました</span></h2>
 <a href="20250310_032.JPG" target="_blank"><img src="20250310_032.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">ワンちゃん連れた旅行者が２組いました</span></h2>
 <a href="20250310_033.JPG" target="_blank"><img src="20250310_033.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250310_034.JPG" target="_blank"><img src="20250310_034.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250310_035.JPG" target="_blank"><img src="20250310_035.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">搭乗エリアにある鬼と人間の綱引きのオブジェ</span></h2>
 <a href="20250310_036.JPG" target="_blank"><img src="20250310_036.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250310_037.JPG" target="_blank"><img src="20250310_037.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250310_038.JPG" target="_blank"><img src="20250310_038.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250310_039.JPG" target="_blank"><img src="20250310_039.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">ブランドショップが立ち並びます</span></h2>
 <a href="20250310_040.JPG" target="_blank"><img src="20250310_040.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">ロボット掃除機くんが向かって来ましたが直前でストップ</span></h2>
 <a href="20250310_041.JPG" target="_blank"><img src="20250310_041.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">成田行きの搭乗ゲートE3はすでにかなりの人</span></h2>
 <a href="20250310_042.JPG" target="_blank"><img src="20250310_042.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250310_043.JPG" target="_blank"><img src="20250310_043.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">搭乗する機体はこれ</span></h2>
 <a href="20250310_044.JPG" target="_blank"><img src="20250310_044.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">バンコクから成田は偏西風の追い風に乗って約5時間、5000kmの飛行</span></h2>
 <a href="20250310_045.JPG" target="_blank"><img src="20250310_045.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">たまたま隣に座った方は日本人のアマチュア無線家、共通の話題でしばし盛り上がりました</span></h2>
 <a href="20250310_046.JPG" target="_blank"><img src="20250310_046.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250310_047.JPG" target="_blank"><img src="20250310_047.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250310_048.JPG" target="_blank"><img src="20250310_048.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">窓から利根川が見えましたm</span></h2>
 <a href="20250310_049.JPG" target="_blank"><img src="20250310_049.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">11日朝8時過ぎ、乗って来た機体を再撮影</span></h2>
 <a href="20250310_050.JPG" target="_blank"><img src="20250310_050.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">空港の壁には歓迎を表現する絵柄</span></h2>
 <a href="20250310_051.JPG" target="_blank"><img src="20250310_051.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">盗撮防止の看板</span></h2>
 <a href="20250310_052.JPG" target="_blank"><img src="20250310_052.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">成田10時発のマロニエバスで宇都宮に向かいます</span></h2>
 <a href="20250310_053.JPG" target="_blank"><img src="20250310_053.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250310_054.JPG" target="_blank"><img src="20250310_054.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250310_055.JPG" target="_blank"><img src="20250310_055.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250310_056.JPG" target="_blank"><img src="20250310_056.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">空から見えた利根川を陸路で渡ります</span></h2>
 <a href="20250310_057.JPG" target="_blank"><img src="20250310_057.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250310_058.JPG" target="_blank"><img src="20250310_058.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">飛行疲れでうとうとしてたら、あっという間に鬼怒川を渡りました</span></h2>
 <a href="20250310_059.JPG" target="_blank"><img src="20250310_059.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">宇都宮の柳田車庫に無事到着、11日 12:06、おせわになりました</span></h2>
 <a href="20250310_060.JPG" target="_blank"><img src="20250310_060.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow"><marquee behavior="left">続きは11日帰国後に追記予定</marquee></span></h2>
+<h2><span class="yellow"><marquee behavior="left">4ヶ月に渡るタイ旅行が終了しました。<br>旅の記録としてスタートした写真集の作成でしたが、後半はほぼ日記みたいになりました。<br>おかげさまで毎日たくさんの皆様に見ていただき、作った甲斐がありました。<br>一旦これにてこのシリーズは終了とさせていただきます。</marquee></span></h2>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
    
